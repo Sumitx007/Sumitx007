@@ -1,8 +1,8 @@
-# 🌟 Hey, I'm Sumit Poudel!
+# ✨ Hello, I’m Sumit Poudel!
 
 <div align="center">
-  <h3>💻 BIT Student at Green Peace Lincoln College, Nepal</h3>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Cat" width="250"/>
+  <h3>🌐 BIT Student & Web Dev Enthusiast from Nepal</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R2MW5sczI3b3I0M2k0aTV0c2M4ZG1uZGZ5c2Y4c3E4Z2U2b3B4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9kt3W3Di/giphy.gif" alt="Lazy Programmer Coding" width="400"/>
 </div>
 
 <p align="center">
@@ -13,16 +13,16 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Studying **BIT** at Green Peace Lincoln College, passionate about web development.
-- 🛠️ Working on cool projects like [SHAREHUB](https://codetexthub.onrender.com/), a text-sharing app.
-- 📚 Learning **React**, **JavaScript**, and modern web tools.
-- 📧 Reach me at: sumitpoudel@example.com
-- 😄 **Fun Fact**: I debug code while sipping chai and vibing to retro synthwave!
+## 💾 About Me
+- 🎓 Pursuing **BIT** at Green Peace Lincoln College, Nepal.
+- 🖥️ Crafting projects like [SHAREHUB](https://codetexthub.onrender.com/), a neat text-sharing platform.
+- 📖 Mastering **React**, **JavaScript**, and sleek web designs.
+- 📧 Contact: sumitpoudel@example.com
+- 😎 **Vibe**: Coding like a pro with chai and chill music in the background.
 
 ---
 
-## ⚙️ My Tech Toolkit
+## 🧰 Tech I Use
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌍 Let’s Connect
+## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/sumit.poudel.188152" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
@@ -58,14 +58,14 @@
 
 ---
 
-## 📈 My GitHub Journey
+## 🚀 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitx007&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx007&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitx007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Coded%20with-❤️%20by%20Sumit%20Poudel-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Built%20with-❤️%20by%20Sumit%20Poudel-6B7280?style=flat-square"/>
 </div>
