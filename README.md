@@ -16,8 +16,8 @@
 
 ## 💾 About Me
 - 🎓 Studying BIT at Green Peace Lincoln College.
-- 🖥️ Building projects like [SHAREHUB](https://codetexthub.onrender.com/).
-- 📧 Contact: sumitpoudel@example.com
+- 🖥️ Building projects.
+- 📧 Contact: sumitpoudel79@gmail.com
 
 ## 🧰 Tech I Use
 <p align="center">
@@ -63,6 +63,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Built%20with-❤️%20by%20Sumit%20Poudel-6B7280?style=flat-square">
-</div>
