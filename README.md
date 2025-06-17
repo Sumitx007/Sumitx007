@@ -1,98 +1,96 @@
-<!--<p align="center"> -->
-<!--  <a href="https://instagram.com/nisxant69" target="_blank"> -->
-<!--    <img src="https://img.shields.io/badge/Follow-%40nisxant69-blue?style=for-the-badge" alt="nisxant69" /> -->
-<!--  </a> -->
-<!--</p> -->
-<!--<br>-->
+# 👋 Welcome to Sumit’s Coding Cosmos! 🚀
 
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <h1>Hi, I'm Sumit Poudel!</h1>
+  <p><i>Crafting code and chasing innovation at Green Peace Lincoln College. 🌌</i></p>
+</div>
 
-<h1 align="center">👋 Hi, I'm Nishant Khadka</h1>
-<h3 align="center">✨ A Passionate IT Enthusiast from Nepal ✨</h3>
+---
 
-<p align="center"> 
-  <a href="https://instagram.com/nisxant69" target="_blank"> 
-    <img src="https://img.shields.io/badge/Follow-%40nisxant69-blue?style=for-the-badge" alt="nisxant69" /> 
-  </a> 
-</p>
+## 🌟 About Me
+I'm a passionate BIT student at **Green Peace Lincoln College**, diving deep into the world of web development and software engineering. I love turning ideas into reality through clean code and creative solutions. My goal? To build tech that makes a difference!
 
-<!--<br>-->
+- 🔭 **Currently working on**: Building a sleek portfolio website and exploring React projects.
+- 🌱 **Learning**: Advanced JavaScript, React, and deployment with Vercel.
+- 👯 **Open to collaborate on**: Open-source web apps, UI/UX projects, or anything JavaScript!
+- 💬 **Ask me about**: Web development, JavaScript, or my latest project adventures.
+- ⚡ **Fun fact**: I code best with lo-fi beats and a cup of chai! ☕
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitx007&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+Here’s what I’m working with to build awesome projects:
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Waving Astronaut" width="100%" height="100%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-<!--<br>-->
 
-## 🚀 About Me <br>
-**🔭 Currently: Exploring new opportunities**<br>
-**🌱 Learning: Data Structures & Algorithms** <br>
-**👨‍💻 [👨‍💻 Portfolio: nisxant69.tech](https://nisxant69.tech)** <br>
-**📫 Email: nisxant69@gmail.com** <br>
-<br>
+---
+
+## 🚀 Featured Projects
+Check out some of my favorite creations:
+
+### 📌 [SHAREHUB](https://github.com/sumitx007/SHAREHUB)
+![SHAREHUB Screenshot](https://via.placeholder.com/400x200.png?text=SHAREHUB+Preview)
+A web app for seamless text and code sharing, built during my web dev bootcamp. It’s all about collaboration and simplicity!
+
+- **Tech Stack**: React (v18.2.0), Tailwind CSS (v3.4.1), Vercel
+- **Features**: Real-time sharing, responsive design, easy deployment
+- **Live Demo**: [Check it out!](https://codetexthub.onrender.com/)
+
+### 📌 [Portfolio Website](https://github.com/sumitx007/portfolio)
+![Portfolio Screenshot](https://via.placeholder.com/400x200.png?text=Portfolio+Preview)
+My personal portfolio, showcasing my skills and projects with a clean, modern design.
+
+- **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
+- **Features**: Responsive layout, interactive UI, project showcase
+- **Live Demo**: [Coming soon!]
+
+<p align="center">
+  <a href="https://github.com/sumitx007?tab=repositories"><img src="https://img.shields.io/badge/See%20More%20Projects-Explore%20Now-00C4B4?style=for-the-badge"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitx007&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitx007&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx007&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
 
 ## 🌐 Connect with Me
+Let’s connect and create something amazing!
+
 <p align="center">
-  <a href="https://twitter.com/nisxant69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/nisxant69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nisxant69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nisxant69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <a href="https://www.facebook.com/sumit.poudel.188152"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_sumitpoudel_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-<br>
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-</a>
+---
 
-  <a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-</a>
+## 🎉 Fun Corner
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200"/>
+  <p><i>"Good code is like a good joke: it works without explanation!" 😄</i></p>
+</div>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" title="Figma"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" title="React"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
-</a>
+Thanks for visiting my profile! Star ⭐ my repos if you like my work, and let’s code the future together!
 
-</p>
-<br>
-<!-- 📊 My Stats -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisxant69&show_icons=true&locale=en&layout=compact&theme=radical" alt="nisxant69" /> </p> -->
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Sumit%20Poudel-blueviolet?style=flat-square"/>
+</div>
