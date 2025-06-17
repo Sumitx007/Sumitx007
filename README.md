@@ -5,7 +5,7 @@
 </div>
 
 <div style="width: 100%; margin: 0 auto;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU0a3hvOXNneTd0NDJocTVoY3h6dDloc3Rva243MXk4dWpsN2s2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tmmNAu02EZuKc/giphy.gif" alt="Lazy Programmer Coding" style="width: 100%; height: auto; max-width: 100%;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU0a3hvOXNneTd0NDJocTVoY3h6dDloc3Rva243MXk4dWpsN2s2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tmmNAu02EZuKc/giphy.gif" alt="Lazy Programmer Coding" style="width: 587 height: 330">
 </div>
 
 <p align="center">
