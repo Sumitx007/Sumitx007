@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>🌐 BIT Student & Web Dev Enthusiast from Nepal</h3>
-  <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Lazy Programmer Coding" width="400"/>
+  <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Lazy Programmer Coding" width="800"/>
 </div>
 
 <p align="center">
