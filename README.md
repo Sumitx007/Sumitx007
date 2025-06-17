@@ -11,16 +11,10 @@
   </a>
 </p>
 
----
-
 ## 💾 About Me
-- 🎓 Pursuing **BIT** at Green Peace Lincoln College, Nepal.
-- 🖥️ Crafting projects like [SHAREHUB](https://codetexthub.onrender.com/), a neat text-sharing platform.
-- 📖 Mastering **React**, **JavaScript**, and sleek web designs.
+- 🎓 Studying BIT at Green Peace Lincoln College.
+- 🖥️ Building projects like [SHAREHUB](https://codetexthub.onrender.com/).
 - 📧 Contact: sumitpoudel@example.com
-- 😎 **Vibe**: Coding like a pro with chai and chill music in the background.
-
----
 
 ## 🧰 Tech I Use
 <p align="center">
