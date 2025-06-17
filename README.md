@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-   <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Lazy Programmer Coding" style="width: 100%; height: auto;"/>
+   <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Lazy Programmer Coding" style="width: 100%; height: 100%;"/>
 </p>
 
 <p align="center">
