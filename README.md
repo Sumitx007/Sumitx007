@@ -1,27 +1,28 @@
-# 👋 Hi, I'm Sumit Poudel
+# 🌟 Hey, I'm Sumit Poudel!
 
 <div align="center">
-  <h3>✨ A Passionate BIT Student from Green Peace Lincoln College, Nepal ✨</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Waving Astronaut" width="300"/>
+  <h3>💻 BIT Student at Green Peace Lincoln College, Nepal</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Cat" width="250"/>
 </div>
 
 <p align="center">
   <a href="https://www.instagram.com/_sumitpoudel_/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40_sumitpoudel_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_sumitpoudel_"/>
+    <img src="https://img.shields.io/badge/%40_sumitpoudel_-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 **Currently**: Studying BIT at Green Peace Lincoln College & building cool web projects
-- 🌱 **Learning**: JavaScript, React, and modern web dev tools
-- 📫 **Email**: sumitpoudel@example.com
-- ⚡ **Fun Fact**: I code with chai and lo-fi beats in the background! ☕
+## 👨‍💻 About Me
+- 🎓 Studying **BIT** at Green Peace Lincoln College, passionate about web development.
+- 🛠️ Working on cool projects like [SHAREHUB](https://codetexthub.onrender.com/), a text-sharing app.
+- 📚 Learning **React**, **JavaScript**, and modern web tools.
+- 📧 Reach me at: sumitpoudel@example.com
+- 😄 **Fun Fact**: I debug code while sipping chai and vibing to retro synthwave!
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ My Tech Toolkit
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
@@ -45,7 +46,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Let’s Connect
 <p align="center">
   <a href="https://www.facebook.com/sumit.poudel.188152" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
@@ -57,14 +58,14 @@
 
 ---
 
-## 📊 My Stats
+## 📈 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitx007&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx007&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitx007&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitx007&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Sumit%20Poudel-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coded%20with-❤️%20by%20Sumit%20Poudel-FF6F61?style=flat-square"/>
 </div>
