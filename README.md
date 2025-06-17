@@ -2,8 +2,11 @@
 
 <div align="center">
   <h3>🌐 BIT Student & Web Dev Enthusiast from Nepal</h3>
-  <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Lazy Programmer Coding" style="width: 100%; height: auto;"/>
 </div>
+
+<p align="center">
+   <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Lazy Programmer Coding" style="width: 100%; height: auto;"/>
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/_sumitpoudel_/" target="_blank">
